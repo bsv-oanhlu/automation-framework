@@ -1,0 +1,6 @@
+username,password,description
+standard_user,secret_sauce,Valid user with full access
+locked_out_user,secret_sauce,Locked out user account
+problem_user,secret_sauce,User with UI issues
+performance_glitch_user,secret_sauce,User with slow response
+standard_user,sai_mat_khau,Invalid password test
